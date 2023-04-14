@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me text
-- 
+- pls tell me how to code •-•
 
 <!---
 viny2010/viny2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
